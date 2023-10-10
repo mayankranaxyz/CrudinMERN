@@ -1,0 +1,10 @@
+.mainnavbar{
+  margin: 0;
+}
+.navbar a{
+  color: white !important;
+}
+.DataAddForm{
+  width: 50% !important;
+  margin: auto !important;
+}
