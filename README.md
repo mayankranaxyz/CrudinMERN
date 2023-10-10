@@ -1,3 +1,3 @@
 ﻿# CrudinMERN
 
-Add .env file in server folder and mention POST and Mongodb URL
+Add .env file in server folder and mention PORT and Mongodb URL
